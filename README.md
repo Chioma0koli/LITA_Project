@@ -35,3 +35,7 @@ EDA involved the exploring of the Data to answer some questions about the Data s
 
 ### Data Analysis
 These are some basic lines of code or queries or some of the DAX expressions used during analysis:
+```EXCEL
+=IF(J2<=20,"Low",IF(J2<=50,"Medium","High"))
+```
+
