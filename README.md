@@ -26,4 +26,12 @@ In the initial phase of the Data cleaning and preparations, the following action
 2. Handling missing variables
 3. Data Cleaning and Formatting
 
-### 
+### Exploratory Data Analysis
+EDA involved the exploring of the Data to answer some questions about the Data such as:
+- What is the overall sales trend?
+- Which products are the top sellers?
+- Which region had the most sales?
+- What are the products on peak sales?
+
+### Data Analysis
+These are some basic lines of code or queries or some of the DAX expressions used during analysis:
