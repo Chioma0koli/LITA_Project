@@ -5,6 +5,20 @@ This is where I documented my first project while learning Data Analysis with Th
 
 ### Project Title: E Commerce Sales Analysis
 
+[Project Overview](#project_overview)
+
+Data Sources
+
+[Tools Used](#tools_used)
+
+Data Cleaning and Preparations
+
+Exploratory Data Analysis
+
+Data Analysis
+
+Data Visualization
+
 ### Project Overview
 This Data Analysis project aims to generate insights into the sales performance of the E commerce paroject over the past years. By analysing the various parameters in the data received, we seek to gather enough insights to make reasonable decisions which then enable us to tell compelling stories around our data from the insight gotten and to know the best performance from our data.
 
