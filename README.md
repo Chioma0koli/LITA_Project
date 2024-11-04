@@ -61,5 +61,8 @@ These are some basic lines of code or queries or some of the DAX expressions use
 
 ### Data Visualization
 ![PIVOT TABLES](https://github.com/user-attachments/assets/86f133aa-d3c1-428f-85b6-00e90ebb4fd1)
+
+
+
 ![CHARTS](https://github.com/user-attachments/assets/68e99bbb-d153-4a44-850e-585b56ed2ed3)
 
